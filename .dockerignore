@@ -1,0 +1,10 @@
+# Binary & cache
+main
+*.exe
+*.out
+*.log
+
+# Folder/Editor
+.idea/
+.vscode/
+node_modules/
